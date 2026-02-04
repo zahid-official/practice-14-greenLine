@@ -188,12 +188,6 @@ All features maintain full functionality across devices with optimized layouts.
 
 ---
 
-## 📄 License
-
-This project is created for educational and portfolio purposes.
-
----
-
 <div align="center">
 
 ### ⭐ If you find this project helpful, please consider giving it a star!
