@@ -124,21 +124,6 @@
 
 ---
 
-## 📊 Statistics & Impact
-
-<div align="center">
-
-| Metric              | Value        |
-| ------------------- | ------------ |
-| 👥 Registered Users | 500,000+     |
-| 🎫 Tickets Sold     | 170,000+     |
-| 🤝 Rental Partners  | 80,000+      |
-| ⭐ Positive Reviews | 238 Million+ |
-
-</div>
-
----
-
 ## 🎨 Design Philosophy
 
 The project embraces a **clean and modern design** approach with:
