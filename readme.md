@@ -192,6 +192,6 @@ All features maintain full functionality across devices with optimized layouts.
 
 ### ⭐ If you find this project helpful, please consider giving it a star!
 
-Proudly Owned by **Zahidul Islam**
+Green Line is Proudly Owned by **Zahidul Islam**
 
 </div>
